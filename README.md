@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a masters in software engineering.
+- - ⚡ Fun fact: 
+
+##Connect with me
+
+##Languages and tools:
+
+
 <!--
 **Olfj/Olfj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
