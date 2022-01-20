@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on a masters in software engineering.
 - - ⚡ Fun fact: 
 
-##Connect with me
+###Connect with me
 
-##Languages and tools:
+###Languages and tools:
 
 
 <!--
